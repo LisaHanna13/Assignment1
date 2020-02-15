@@ -34,6 +34,5 @@ public class Question1{
 		
 		//Print out the results, formatting everything to two decimals
 		System.out.println("\nGreat! To drive " + String.format("%.2f", kilometers) + " kilometers, it will cost you " + decimals.format(cost) + " CAD, considering gas is $1.16 CAD per liter.");
-
 	}
 }

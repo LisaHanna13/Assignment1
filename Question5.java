@@ -36,9 +36,5 @@ public class Question5{
 		System.out.println("The square root of the number is equal to: " + String.format("%.2f", sqrt));
 		System.out.println("The natural logarithm of the number is equal to: " + String.format("%.2f", natLog));
 		System.out.println("The base 10 logarithm of the number is equal to: " + String.format("%.2f", log10));
-
-
-
-
 	}
 }
